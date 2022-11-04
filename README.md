@@ -60,7 +60,7 @@ Set up all your information in the *config.json* File as such
  ### Important
  Please make sure to have enabled `Privileged Intents` on your Discord [developer portal](https://discordapp.com/developers/applications/). 
 
-
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 
 Once done, you can launch the bot with `node index.js`. 

@@ -62,7 +62,6 @@ Set up all your information in the *config.json* File as such
 
 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
-
 Once done, you can launch the bot with `node index.js`. 
 
 Any questions? DM me on <a href="https://discord.com/users/710465231779790849">Discord</a>.
